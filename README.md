@@ -1,6 +1,6 @@
 ﻿# S24_anime_faces_generator
 
-In this project we utilize the GAN (Generative Adversarial Network) architecture to generate high quality images of a cily landscape.
+In this project we utilize the GAN (Generative Adversarial Network) architecture to generate high quality anime images.
 
 Right now we only have 2 branches: "main" and auto encoder.
 
