@@ -10,5 +10,7 @@ Right now we only have 2 branches: "main" and auto encoder.
 
 We present a novel approach to image generation using GANs and Autoencoders. We trained both models on an Anime Faces dataset and evaluated their performance. Our findings show that the GAN model outperforms the Autoencoder in terms of image quality and diversity. Our approach can be applied to other image generation tasks, such as generating realistic human faces or other types of images.
 
+
+
 Example of generated images:
 ![image](https://github.com/user-attachments/assets/1b1708ba-c897-475f-8b95-b9412276eb53)
